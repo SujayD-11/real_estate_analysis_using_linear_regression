@@ -1,2 +1,2 @@
-# real_estate_analysis_using_linear_regression
-Just for implementation and understanding of Linear Regression this project has been done.
+Real Estate Analysis and Price-Prediction using Regression(Linear)
+Just for implementation and understanding of Linear Regression this project has been done, without a lot of data cleaning and EDA.
